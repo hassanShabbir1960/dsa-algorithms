@@ -1,7 +1,5 @@
-### Write a Python program to calculate the sum of a list of numbers. 
 
-from ast import In
-from email.mime import base
+### Write a Python program to converting an integer to a string in any base.
 
 
 def Integer_To_String(number,base):
